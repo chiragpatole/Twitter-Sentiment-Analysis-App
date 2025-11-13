@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+*.env.local
+
+# Build files
+build/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Database
+*.db
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
